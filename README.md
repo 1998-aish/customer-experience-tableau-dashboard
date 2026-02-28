@@ -53,4 +53,4 @@ The objective of this project was to transform raw transactional data into actio
 ---
 
 ## 📷 Dashboard Preview
-*(Preview image below)*
+![Customer Experience Dashboard](dashboard-preview.png)
